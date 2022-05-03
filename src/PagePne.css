@@ -1,0 +1,37 @@
+.wrap-Page-One{
+    margin: auto;
+    background-color: rgb(84, 62, 62);
+    width: 800px;
+    color: aqua;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    margin-top: 10px;
+}
+.wrap-Page-One div{
+    margin-top: 10px;
+}
+.wrap-Page-One button{
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.page-two{
+    border: 2px solid;
+    width: 400px;
+    margin: auto;
+    padding: 16px;
+}
+.page-two input{
+    width: 300px;
+    padding: 6px;
+    margin-top: 4px;
+}
+.page-two button{
+    width: 130px;
+    padding: 4px;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: grey;
+    border-radius: 10px;
+}
